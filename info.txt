@@ -1,0 +1,11 @@
+{
+  "Name": "Auto Traider",
+  "ID": "Auto Traider",
+  "Author": "Drago",
+  "Description": "Автоматически торгует на бирже - (форк мода AutoStockAdvisor)",
+  "ModVersion": 6,
+  "GameVersion": 2.053,
+  "Date": "8/07/2025",
+  "Disabled": 0,
+  "AllowSteamAchievs": 1
+}
