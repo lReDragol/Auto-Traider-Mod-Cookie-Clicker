@@ -1,7 +1,7 @@
 (function(){
     'use strict';
 
-    const AutoTraiderVersion = '6.2';
+    const AutoTraiderVersion = '6';
 
     const DEFAULT_SETTINGS = {
         settingsVersion: AutoTraiderVersion,
